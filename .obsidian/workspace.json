@@ -11,14 +11,14 @@
             "id": "df7b9236b51f29e9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Nord Clan/Теория/Методы расширения.md",
-                "bFile": "Nord Clan/Теория/Методы расширения.md",
-                "aRef": ""
+                "file": "Nord Clan/Теория/Методы расширения.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Методы расширения"
+              "icon": "lucide-file",
+              "title": "Методы расширения"
             }
           }
         ]
@@ -178,10 +178,11 @@
   },
   "active": "df7b9236b51f29e9",
   "lastOpenFiles": [
-    "Nord Clan/Теория/Методы расширения.md",
-    "Nord Clan/Технологии/Hangfire.md",
     "Nord Clan/Технологии/FluentValidation.md",
+    "Nord Clan/Технологии/Hangfire.md",
+    "Nord Clan/Технологии/MassTransit.md",
     "Nord Clan/Технологии/Docker.md",
+    "Nord Clan/Теория/Методы расширения.md",
     "Nord Clan/Теория/Делегаты.md"
   ]
 }

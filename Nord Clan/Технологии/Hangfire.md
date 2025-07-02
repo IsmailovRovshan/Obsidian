@@ -1,5 +1,4 @@
 **Hangfire** — это библиотека для .NET, которая позволяет запускать фоновые задачи (background jobs) прямо из кода C# без необходимости писать сложную инфраструктуру (например, вручную работать с очередями или планировщиками).
-
 # Program.cs
 ```csharp
 var hangfireConnectionString = builder.Configuration.GetConnectionString("HangfireConnectionString");
