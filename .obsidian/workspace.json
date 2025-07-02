@@ -11,14 +11,14 @@
             "id": "df7b9236b51f29e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Nord Clan/Технологии/Hangfire.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Nord Clan/Теория/Методы расширения.md",
+                "bFile": "Nord Clan/Теория/Методы расширения.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Hangfire"
+              "icon": "diff",
+              "title": "Diff: Методы расширения"
             }
           }
         ]
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,9 +178,10 @@
   },
   "active": "df7b9236b51f29e9",
   "lastOpenFiles": [
+    "Nord Clan/Теория/Методы расширения.md",
+    "Nord Clan/Технологии/Hangfire.md",
     "Nord Clan/Технологии/FluentValidation.md",
     "Nord Clan/Технологии/Docker.md",
-    "Nord Clan/Теория/Методы расширения.md",
     "Nord Clan/Теория/Делегаты.md"
   ]
 }
