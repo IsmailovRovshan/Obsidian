@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "f03154cd73d6444c",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a18b70a504850c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b60aaa2606028b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Теория/Методы расширения.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Методы расширения"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c06cbbea55ce52c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "01c952ff68f8054f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27fea3043202fae9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "3b1a2b95d3403ad8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9f6bbf44858c0bcf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "068224a906802043",
+    "type": "split",
+    "children": [
+      {
+        "id": "1444d1b0c3c0e882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d584d486d483f8c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Частые проблемы/Биндинг конфигурации.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Биндинг конфигурации"
+            }
+          },
+          {
+            "id": "15d03da2654d8bef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Частые проблемы/Биндинг конфигурации.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Биндинг конфигурации"
+            }
+          },
+          {
+            "id": "b373fc846c78efd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "83f9ce55a715ff3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Теория/Методы расширения.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Методы расширения"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b60aaa2606028b3c",
+  "lastOpenFiles": [
+    "Технологии/Docker.md",
+    "Теория/Методы расширения.md",
+    "Теория/Делегаты.md",
+    "Технологии/FluentValidation.md",
+    "Технологии/Hangfire.md",
+    "Технологии/MassTransit.md",
+    "Частые проблемы/Биндинг конфигурации.md",
+    "Теория",
+    "Без названия.md",
+    "Частые проблемы",
+    "Без названия 1",
+    "Технологии",
+    "Пример docker-compose.yml.md",
+    "Docker.md",
+    "Пример Dockerfile.md",
+    "Docker-Compose команды.md",
+    "Welcome.md"
+  ]
+}
