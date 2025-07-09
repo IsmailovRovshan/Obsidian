@@ -57,11 +57,8 @@ BackgroundJob.Enqueue(() => Console.WriteLine("Hello from Hangfire!"));
 Можно использовать для:
 
 - немедленной отправки email
-    
 - записи в лог
-    
 - старта генерации отчёта
-    
 
 ---
 
