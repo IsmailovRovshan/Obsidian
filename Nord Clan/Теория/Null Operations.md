@@ -1,3 +1,4 @@
+```csharp
 public async Task<List<ProductDto>> GetProductsAsync(string category = null)
 {
     return await _dbContext.Products
@@ -5,3 +6,4 @@ public async Task<List<ProductDto>> GetProductsAsync(string category = null)
         .Select(p => new ProductDto { Id = p.Id, Name = p.Name, Category = p.Category })
         .ToListAsync();
 }
+```
