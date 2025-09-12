@@ -6,6 +6,8 @@
 [[Протоколы, REST]]
 [[DNS]]
 
+[[REST]]
+
 [[HTTP]]
 [[HTTPs]]
 [[HTTP v2.0]]
