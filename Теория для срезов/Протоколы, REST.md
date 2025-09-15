@@ -9,5 +9,3 @@
 [[REST]]
 
 [[HTTP]]
-[[HTTPs]]
-[[HTTP v2.0]]
