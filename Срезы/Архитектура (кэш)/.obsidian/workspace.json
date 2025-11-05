@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "1936689b210fe800",
+    "type": "split",
+    "children": [
+      {
+        "id": "8223b7e20fde1eea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c092d2e86a446cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Доп. темы.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Доп. темы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "560402c1a6ca58c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8dd1c33be84c9b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab586e2ee83d415f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "385878a6586dbb34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "37b5e952166fbacd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b5492efb5d82038d",
+    "type": "split",
+    "children": [
+      {
+        "id": "761929fe6ba8ff44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "784b50efee7e31da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Доп. темы.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 2. Доп. темы"
+            }
+          },
+          {
+            "id": "2a05dfb04b6d3029",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Доп. темы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 2. Доп. темы"
+            }
+          },
+          {
+            "id": "34d1fd221916a25a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "39636d5dcedc4c5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Доп. темы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 2. Доп. темы"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "0c092d2e86a446cf",
+  "lastOpenFiles": [
+    "Разница PUT и PATCH.md",
+    "2. Доп. темы.md",
+    "1. Архитектура.md",
+    "REST.md",
+    "Идентпотентный запрос.md",
+    "Методы HTTP.md",
+    "Коммуникация между сервисами.md",
+    "Инвалидация кеша.md"
+  ]
+}
